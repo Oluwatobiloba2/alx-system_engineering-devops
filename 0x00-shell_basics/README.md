@@ -1,1 +1,1 @@
-ls -l will display the contnts of a directory in a long format
+ls -la  will display the hidden files in a directory
