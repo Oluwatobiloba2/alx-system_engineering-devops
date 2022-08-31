@@ -1,1 +1,1 @@
-mkdir /tmp/my_first_directory will creat a directory with a name inside another directory
+mv /tmp/betty /tmp/my_first_directory will move a file trom a directory inside a subdirectory in a directory
