@@ -1,1 +1,1 @@
-file /tmp/iamafile will prints the type of the file named iamafile. The file iamafile will be in the /tmp directory
+ln -s /bin/ls -- ls -- will Create a symbolic link to /bin/ls, named ls The symbolic link should be created in the current working directory
