@@ -1,1 +1,1 @@
-ls dispalys the contents of the current working directory
+cd ~ changes the directory to the users working directory
