@@ -1,1 +1,1 @@
-sudo chown betty hello will change the owner
+ touch hello will creat an empty file
