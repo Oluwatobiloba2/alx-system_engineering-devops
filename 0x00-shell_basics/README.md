@@ -1,1 +1,1 @@
-rm *~ will delete all files in the directory ending with ~
+mkdir -p welcome/to/school will create directories in the current working directory
