@@ -1,1 +1,1 @@
-chmod 007 hello will set the permission to the file
+chmod 753 hello will set the mode of file
