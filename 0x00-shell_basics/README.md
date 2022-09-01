@@ -1,1 +1,1 @@
-mkdir -p welcome/to/school will create directories in the current working directory
+ls -amF will list files in the directories seperated by commas
