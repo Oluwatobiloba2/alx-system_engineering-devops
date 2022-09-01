@@ -1,1 +1,1 @@
-su Betty will switch the current user
+whoami will print the effective user name
