@@ -1,1 +1,2 @@
-sudo chown betty hello will change the owner
+#!/bin/bash
+sudo chown betty hello
