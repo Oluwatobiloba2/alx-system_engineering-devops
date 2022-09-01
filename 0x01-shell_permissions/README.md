@@ -1,1 +1,1 @@
- touch hello will creat an empty file
+ chmod u+x hello will add execusion perssion
