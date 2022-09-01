@@ -1,1 +1,1 @@
-mv [[:upper:]]* /tmp/u will be all files beginin with upper case
+rm *~ will delete all files in the directory ending with ~
