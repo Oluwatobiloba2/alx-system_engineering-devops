@@ -1,1 +1,1 @@
-mkdir -m 751 my_dir will Create a script that creates a directory
+chgrp holberton hello will changes the group owner to school for the file hello
