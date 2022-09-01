@@ -1,1 +1,1 @@
-chmod 753 hello will set the mode of file
+chmod --reference olleh hello will set mode of the file
