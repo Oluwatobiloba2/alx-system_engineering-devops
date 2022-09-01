@@ -1,1 +1,1 @@
-groups will print all the groups the current user is
+sudo chown betty hello will change the owner
